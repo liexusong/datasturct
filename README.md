@@ -1,2 +1,2 @@
-# Go data structre
+# Go data structure
 Data structure implements by Golang
